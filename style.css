@@ -1,0 +1,30 @@
+#top {
+    background-color: rgb(192, 60, 67);
+    padding: 20px}
+
+h2 {
+    font-size: 1.5em;
+    background-color: rgb(20, 220, 47);
+    margin: 20px;
+    padding: 40px;
+}
+
+body {
+    background-color: rgb(33, 106, 116);}
+
+#jungle {
+  background-color: rgb(23, 122, 53);
+    padding: 20px}
+h1 {
+  color: rgb(46, 0, 252);
+}
+h2 {
+  color: rgb(211, 91, 91);
+}
+button {
+  background-color: rgb(212, 253, 28);
+}
+body {
+  color: rgb(255, 210, 12);
+  padding: 20px
+  }
